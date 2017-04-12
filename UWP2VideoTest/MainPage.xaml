@@ -20,6 +20,6 @@
         </StackPanel>
 
         <MediaElement Grid.Row="1" HorizontalAlignment="Center" AudioCategory="Movie" Name="MyMedia" Visibility="Visible" AreTransportControlsEnabled="True" />
-
+ 
     </Grid>
 </Page>
